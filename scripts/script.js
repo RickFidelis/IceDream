@@ -1,5 +1,5 @@
 function imgSlider(anything) {
-  document.querySelector(".starbucks").src = anything;
+  document.querySelector(".casquinha").src = anything;
 }
 
 function changeCircleColor(color) {
